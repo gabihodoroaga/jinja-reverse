@@ -47,7 +47,7 @@ jinja-generate -f example/templates -g "*.j2" -o example/out
 ```txt
 -f, --folder        The folder where the tempalates will be created and where the base exists
 -g, --glob          The samples glob pattern
--o, --output           The output folder
+-o, --output        The output folder
 ```
 
 ## Authors
