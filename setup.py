@@ -19,7 +19,7 @@ setuptools.setup(
         'jinja-generate = generate:main',
     ]},
     install_requires=[
-        'Jinja2==2.8'
+        'Jinja2>=2.10.1'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
