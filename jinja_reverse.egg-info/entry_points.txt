@@ -1,0 +1,4 @@
+[console_scripts]
+jinja-generate = generate:main
+jinja-reverse = reverse:main
+
