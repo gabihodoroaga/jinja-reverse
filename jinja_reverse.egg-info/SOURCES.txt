@@ -1,0 +1,11 @@
+README.md
+setup.py
+./generate.py
+./reverse.py
+jinja_reverse.egg-info/PKG-INFO
+jinja_reverse.egg-info/SOURCES.txt
+jinja_reverse.egg-info/dependency_links.txt
+jinja_reverse.egg-info/entry_points.txt
+jinja_reverse.egg-info/not-zip-safe
+jinja_reverse.egg-info/requires.txt
+jinja_reverse.egg-info/top_level.txt

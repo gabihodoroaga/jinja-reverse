@@ -1,0 +1,10 @@
+venv/
+build/
+dist/
+tmp/
+out/
+example/**/*.j2
+example/out
+
+*.pyc
+.DS_Store
