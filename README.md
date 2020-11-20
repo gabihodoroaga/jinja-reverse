@@ -1,6 +1,6 @@
 # jinja-reverse
 
-A simple tool to reverse a Jinja2 template. Check out this blog post [How to reverse a Jinja template](https://hodo.ro/posts/post-12-jinja-reverse) for more details.
+A simple tool to reverse a Jinja2 template. Check out this blog post [How to reverse a Jinja template](https://hodo.dev/posts/post-12-jinja-reverse) for more details.
 
 ## Installation
 
